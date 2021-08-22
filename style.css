@@ -1,0 +1,15 @@
+.portions {
+    display: flex;
+}
+.image {
+    width: 50%;
+    padding-left: 30%;
+}
+#bottom-total {
+    text-align: center;
+}
+#apply {
+    background-color: brown;
+    color:cornsilk;
+    border-radius: 3%;
+}
